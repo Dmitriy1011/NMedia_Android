@@ -2,4 +2,18 @@
 <resources>
     <string name="app_name" translatable="false">НМедиа</string>
     <string name="nmedia2">НМедиа!</string>
+    <string name="empty_post_error">Content must not be empty</string>
+    <string name="edit_message">Edit Message</string>
+    <string name="content">Content</string>
+    <string name="remove_item">Remove</string>
+    <string name="edit_item">Edit</string>
+    <string name="ok">ok</string>
+    <string name="video">video</string>
+    <string name="notification_user_liked">User %1$s liked %2$s\'s post</string>
+    <string name="channel_remote_name">Server notifications</string>
+    <string name="channel_remote_description">Notifications from remote server</string>
+
+    <string name="notification_user_createdPost">User %1$s created %2$s\'s post</string>
+    <string name="channel_remote_name_2">Server notifications</string>
+    <string name="channel_remote_description_2">Notifications from remote server</string>
 </resources>
