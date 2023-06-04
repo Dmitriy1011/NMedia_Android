@@ -24,6 +24,8 @@ class AppActivity : AppCompatActivity() {
 
         setContentView(binding.root)
 
+
+        //применяем intent
         intent?.let {
 
             if (it.action != Intent.ACTION_SEND) {
